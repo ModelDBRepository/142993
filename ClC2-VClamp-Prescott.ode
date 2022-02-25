@@ -116,7 +116,7 @@ param ra=.0063
 
 # PRACTICAL DETAILS FOR XPP
 
-@ total=20000,dt=.1,xlo=-100,xhi=60,ylo=-.125,yhi=.6,xp=v,yp=w
+@ total=20000,dt=.1,xlo=-100,xhi=60,ylo=-.125,yhi=.6,xp=v_,yp=w
 @ meth=Euler
 # ALWAYS USE EULER METHOD WITH NOISE PROCESSES (although there are no such mechanisms in this code
 @ dsmin=1e-5,dsmax=.1,parmin=0,parmax=80, autoxmin=0,autoxmax=80,autoymin=-80,autoymax=40
