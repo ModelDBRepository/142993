@@ -1,18 +1,14 @@
 # Model Files for the Paper
 
-Ratte S, Prescott SA (2011) ClC-2 Channels Regulate Neuronal  
-Excitability, Not Intracellular Chloride Levels *J Neurosci*  
-31(44):15838-15843
+Ratte S, Prescott SA (2011) ClC-2 Channels Regulate Neuronal Excitability, Not Intracellular Chloride Levels *J Neurosci* 31(44):15838-15843
 
 These model files were supplied by Dr Steve Prescott.
 
 ## Models
 
-- **ClC2-VClamp-Prescott.ode** implements simulations in voltage clamp.  
-  Data presented in Figure 1 of the paper can be reproduced using this model.
+- **ClC2-VClamp-Prescott.ode** implements simulations in voltage clamp. Data presented in Figure 1 of the paper can be reproduced using this model.
 
-- **ClC2-IClamp-Prescott.ode** implements simulations in current clamp.  
-  Data presented in Figures 2 and 3 of the paper can be reproduced using this model.
+- **ClC2-IClamp-Prescott.ode** implements simulations in current clamp. Data presented in Figures 2 and 3 of the paper can be reproduced using this model.
 
 ## Model Description
 
